@@ -71,5 +71,3 @@ pip install -r requirements.txt
 This project uses open-source libraries and APIs, credited in the Tech Stack section. I’ve worked to make this an original implementation, but if you spot anything here that looks inspired by your work, please reach out! I’d love to give a shoutout and note how your efforts have influenced me.
 
 ---
-
-Excited to share my first GitHub project! Feel free to explore, open issues, or suggest improvements.
