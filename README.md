@@ -16,7 +16,7 @@ The combination of sentiment-driven optimization, user-customizable filters, and
 
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/your-username/sentiment-driven-portfolio-optimizer.git
+git clone https://github.com/karthikeyavvsr/sentiment-driven-portfolio-optimizer.git
 cd sentiment-driven-portfolio-optimizer
 ```
 
